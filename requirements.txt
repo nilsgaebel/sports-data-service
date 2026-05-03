@@ -15,7 +15,6 @@ jsonschema==4.17.3
 jsonschema-specifications==2023.7.1
 MarkupSafe==3.0.3
 referencing==0.30.2
-requests==2.32.5
 rpds-py==0.10.6
 typing_extensions==4.15.0
 urllib3==2.5.0
